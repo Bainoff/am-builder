@@ -1,0 +1,29 @@
+{
+  "name": "am-builder",
+  "version": "1.0.0",
+  "description": "web-tool automating project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bainoff/am-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bainoff/am-builder/issues"
+  },
+  "homepage": "https://github.com/Bainoff/am-builder#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "cypress": "^13.6.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-plugin-api": "^2.11.1",
+    "installing": "^1.0.0"
+  },
+  "devDependencies": {
+    "@cypress/grep": "^4.0.1"
+  }
+}

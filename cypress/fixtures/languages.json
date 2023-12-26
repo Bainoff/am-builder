@@ -1,0 +1,10 @@
+{
+    "defaultBrowserLanguage": "navigator.language",
+    "defaultBrowserLanguageAlt": "navigator.userLanguage",
+    "English": "en",
+    "Russian": "ru",
+    "Polish": "pl",
+    "French": "fr",
+    "Spanish": "es",
+    "German": "de"
+}
